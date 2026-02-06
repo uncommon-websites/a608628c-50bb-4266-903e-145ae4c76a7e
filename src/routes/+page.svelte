@@ -4,6 +4,11 @@
 
 	const projects = [
 		{
+			title: "TestCompany",
+			src: "/uploaded/1770408633341-dxrnptu.png",
+			alt: "TestCompany brand design"
+		},
+		{
 			title: "SSS Showhouse",
 			src: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=2000&auto=format&fit=crop", // Living room fireplace
 			alt: "Minimal living room with fireplace"
